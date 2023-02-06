@@ -59,10 +59,10 @@ After successfully completing the above steps our VPN Travel router is ready to 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Raspberry Pie 4b   | [https://www.amazon.in/Raspberry-Pi-8GB-Desktop-Computer/dp/B08B9XS3B6?th=1](https://amzn.to/3VnGGfX) | $169.87  |
-| Pie Case | https://www.thingbits.in/products/raspberry-pi-official-case-for-pi-4-model-b?src=raspberrypi?src=raspberrypi  | $3.86 |
-| Pie Case Fan | https://www.factoryforward.com/product/official-raspberry-pi-4-case-fan/  | $5.18 |
-| Power Supply | https://www.thingbits.in/products/raspberry-pi-official-15w-usb-c-power-supply-for-pi-4?src=raspberrypi%3Fsrc%3Draspberrypi | $7.23
-| USB Wifi Adapter | https://www.netgearstore.in/products/a6150-dual-band-wifi-usb-adapter-ac1200 | $25.93
+| Pie Case | https://robu.in/product/official-raspberry-pi-4-case-red-white/  | $3.86 |
+| Pie Case Fan | https://robu.in/product/official-raspberry-pi-4-case-fan/  | $5.18 |
+| Power Supply | https://robu.in/product/official-usb-type-c-15-3w-power-supply-for-raspberry-pi-4/ | $7.23
+| USB Wifi Adapter | [https://www.amazon.in/gp/product/B0859M539M/ref=ox_sc_act_title_1?smid=A14CZOWI0VEHLG&psc=1](https://amzn.to/3JLed1w) | $25.93
 | SD Card | [https://www.amazon.in/Samsung-microSDXC-Memory-Adapter-MB-MC64KA/dp/B09MT84WV5?th=1](https://amzn.to/3YQvZoZ) | $13.22
 | SD Card Reader | [https://www.amazon.in/Brand-Conquer-Reader-Adapter-Portable/dp/B07YL54NVJ/ref=sr_1_3?crid=1Q2MAJP7CXNME&keywords=sd%2Bcard%2Breader&qid=1672164242&s=computers&sprefix=sd%2Bcard%2Ccomputers%2C1658&sr=1-3&th=1](https://amzn.to/3FYm48m) | $6.62 |
 | Ethernet Cable | Already Owned | $0
